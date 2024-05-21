@@ -37,9 +37,6 @@ I am Sharan Karchella
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     </a>
     <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/>
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
