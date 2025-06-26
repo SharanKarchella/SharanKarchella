@@ -2,7 +2,7 @@
 I am Sharan Karchella
 
 -  👨‍💻 I’m interested in Technology
--  Learning New Tech
+-  Learning Tech && UpSkilling
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
