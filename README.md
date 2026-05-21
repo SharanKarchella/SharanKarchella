@@ -1,39 +1,48 @@
-### Hi there <a href="https://www.Sharankarchella.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-I am Sharan Karchella
+<h1 align="center">Hey, I'm Sharan 👋</h1>
 
--  👨‍💻 I’m interested in Technology
--  Learning Tech & UpSkilling
+  <p align="center">
+    Full-stack developer who builds things that actually ship.<br/>
+    Currently exploring AI agents, browser extensions, and whatever's interesting this week.
+  </p>
 
-🔗 &nbsp;**Connect with me**
-<p align="left">
- <a href="https://www.linkedin.com/in/sharan-karchella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
-<a href="https://x.com/SKarchella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="30" width="40" /></a>
-<a href="https://www.instagram.com/karchellasharan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-   
-
-  <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
-  <br/>
-  <p align="left">
-    <a href="https://www.java.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJs" width="40" height="40"/>
-     </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sharan-karchella/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <a href="https://www.instagram.com/karchellasharan/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-</p>
+  </p>
 
+  ---
 
+  ### What I'm building
 
+  - **[Legal Risk Analyser](https://github.com/SharanKarchella/legal-risk-analyzer-extension)** — AI agent that scans any legal document
+  clause by clause in real time. Chrome extension + Next.js web app.
 
+  ---
+
+  ### Tech I work with
+
+  <p>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/>
+  </p>
+
+  ---
+
+  ### GitHub stats
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SharanKarchella&show_icons=true&theme=tokyonight&hide_border=true" 
+  height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharanKarchella&layout=compact&theme=tokyonight&hide_border=true"
+   height="150"/>
+  </p>
